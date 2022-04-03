@@ -1,2 +1,2 @@
-# cemantriche
+# cémantriche
 Cémantriche, pour tricher à cémantix
